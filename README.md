@@ -21,14 +21,6 @@ In this project, let's build a **Match Game** by applying the concepts we have l
 
 </details>
 
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
 
 ### Completion Instructions
 
@@ -118,6 +110,14 @@ The app must have the following functionalities
 - Roboto
 
 </details>
+
+<details>
+<summary>URL Reference</summary>
+
+- [URL](https://gm1.ccbp.tech/)
+
+</details>
+
 
 > ### _Things to Keep in Mind_
 >
